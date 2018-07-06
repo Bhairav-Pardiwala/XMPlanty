@@ -1,0 +1,9 @@
+F:\Projects\XMPL\XMPL\XMPL\bin\Debug\netstandard2.0\XMPL.deps.json
+F:\Projects\XMPL\XMPL\XMPL\bin\Debug\netstandard2.0\XMPL.dll
+F:\Projects\XMPL\XMPL\XMPL\obj\Debug\netstandard2.0\XMPL.csprojResolveAssemblyReference.cache
+F:\Projects\XMPL\XMPL\XMPL\obj\Debug\netstandard2.0\XMPL.csproj.CoreCompileInputs.cache
+F:\Projects\XMPL\XMPL\XMPL\obj\Debug\netstandard2.0\XMPL.AssemblyInfoInputs.cache
+F:\Projects\XMPL\XMPL\XMPL\obj\Debug\netstandard2.0\XMPL.AssemblyInfo.cs
+F:\Projects\XMPL\XMPL\XMPL\bin\Debug\netstandard2.0\XMPL.pdb
+F:\Projects\XMPL\XMPL\XMPL\obj\Debug\netstandard2.0\XMPL.dll
+F:\Projects\XMPL\XMPL\XMPL\obj\Debug\netstandard2.0\XMPL.pdb

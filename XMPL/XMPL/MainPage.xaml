@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XMPL"
+             x:Class="XMPL.MainPage">
+
+    <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <!-- Place new controls here -->
+        <Button Text="Start Pump" Clicked="StartPump" x:Name="stPmp"/>
+        <Button Text="Stop Pump"  Clicked="StopPump" x:Name="stpPmp"/>
+        <Button Text="Device Status" Clicked="DeviceStatus"  x:Name="devStatus"/>
+        <Button Text="Time Set" Clicked="TimeSet"  x:Name="TimeBTN"/>
+        <Label x:Name="devstatus"/>
+    </StackLayout>
+
+</ContentPage>
